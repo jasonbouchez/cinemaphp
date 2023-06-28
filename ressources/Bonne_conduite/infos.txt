@@ -1,0 +1,20 @@
+Nom du film :
+Bonne conduite
+
+date de sortie :
+29/03/2023
+
+Réalisateur :
+Jonathan Barré
+
+Durée :
+95
+
+Genre :
+Comédie
+
+Synopsis :
+Pauline a une méthode bien à elle pour faire de la prévention routière : formatrice dans un centre de récupération de points le jour, elle se transforme en serial killeuse de chauffards la nuit.
+
+Bande-annonce :
+https://www.youtube.com/watch?v=sRLz3-gcjgg
